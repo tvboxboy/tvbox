@@ -1,0 +1,159 @@
+﻿{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/57.json",
+            "name": "吕布"
+        },    
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/21xs.json",
+            "name": "关羽"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/26.json",
+            "name": "张飞"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/53.json",
+            "name": "典韦"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/55.json",
+            "name": "赵云"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/32.json",
+            "name": "马超"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/54.json",
+            "name": "许褚"
+        },                      
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/8.json",
+            "name": "黄忠"
+        },   
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/31.json",
+            "name": "孙坚"
+        },       
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/50.json",
+            "name": "夏侯惇"
+        },   
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/22.json",
+            "name": "张辽"
+        },           
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/28佰欣园.json",
+            "name": "孙策"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/25.json",
+            "name": "太史慈"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/46.json",
+            "name": "徐晃"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/39.json",
+            "name": "庞德"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/4xh.json",
+            "name": "张郃"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/10liu.json",
+            "name": "颜良"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/33.json",
+            "name": "文丑"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/36.json",
+            "name": "魏延"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/3.json",
+            "name": "夏侯渊"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/51.json",
+            "name": "甘宁"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/12sz.json",
+            "name": "文鸯〔推荐〕"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/7wa.json",
+            "name": "关平"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/9apple.json",
+            "name": "华雄"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/40.json",
+            "name": "姜维"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/27all.json",
+            "name": "张绣"
+        },
+
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/11bp.json",
+            "name": "周泰"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/43.json",
+            "name": "关兴"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/52.json",
+            "name": "张苞"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/13ls.json",
+            "name": "凌统"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/37pc.json",
+            "name": "高顺"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/6.json",
+            "name": "曹仁"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/17.json",
+            "name": "乐进"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/34.json",
+            "name": "李典"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/44.json",
+            "name": "文聘"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/38.json",
+            "name": "韩当"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/tvboxboy/tvbox/main/1.json",
+            "name": "陈武"
+        }  
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
